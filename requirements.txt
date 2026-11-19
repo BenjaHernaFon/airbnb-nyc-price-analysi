@@ -1,0 +1,8 @@
+pandas        # Manipulación y limpieza de datos
+numpy
+matplotlib    # Visualizacion y graficos (histogramas, barras, boxplots, KDE).
+seaborn
+scipy         # Pruebas estadísticas (Kolmogorov-Smirnov, Shapiro-Wilk) y gráficos/modelos estadísticos (como el Q-Q plot).
+statsmodels
+scikit-learn  # Herramientas de machine learning, escalado y reducción de dimensionalidad.
+jupyter       # Para abrir y ejecutar archivos
